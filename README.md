@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hafiz Arya 👋</h1>
-<h3 align="center">Frontend Developer 🇮🇩 | Passionate about building clean, functional, and beautiful web & mobile apps</h3>
+<h3 align="center">Frontend Developer and Mobile Developer 🇮🇩 | Passionate about building clean, functional, and beautiful web & mobile apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafizarya326&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hafizarya326 profile views" />
@@ -13,14 +13,14 @@
 ```yaml
 name: Hafiz Arya
 location: Indonesia
-role: Frontend Developer
+role: Frontend Developer And Mobile Developer
 currently_learning: Laravel
 ask_me_about: [Flutter, Dart, PHP]
 contact: hafizpratama326@gmail.com
 fun_fact: "Always shipping something, even if it's small ✨"
 ```
 
-- 🔭 Saat ini fokus mengembangkan skill di **Laravel**
+- 🔭 Saat ini fokus mengembangkan skill di **Fluter atau Dart**
 - 💬 Tanyakan apapun soal **Flutter, Dart, atau PHP** — dengan senang hati saya bantu
 - 🌐 Suka membangun UI/UX yang rapi, responsif, dan enak dipakai
 - 📫 Cara terbaik menghubungi saya: **hafizpratama326@gmail.com**
