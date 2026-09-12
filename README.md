@@ -21,7 +21,7 @@ fun_fact: "Always shipping something, even if it's small ✨"
 
 - 🔭 Saat ini fokus mengembangkan skill di **Fluter atau Dart**
 - 💬 Tanyakan apapun soal **Flutter, Dart, atau PHP** — dengan senang hati saya bantu
-- 🌐 Suka membangun UI/UX yang rapi, responsif, dan enak dipakai
+- 🌐 Suka membangun UI/UX yang rapi, responsif, dan enak dipakai.
 - 📫 Cara terbaik menghubungi saya: **hafizpratama326@gmail.com**
 - ⚡ Fun fact: kode yang bagus itu kode yang gampang dibaca orang lain (termasuk diri sendiri 6 bulan kemudian 😄)
 
