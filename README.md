@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hafiz Arya 👋</h1>
-<h3 align="center">Frontend Developer and Mobile Developer 🇮🇩 | Passionate about building clean, functional, and beautiful web & mobile apps</h3>
+<h3 align="center">Frontend Developer and Mobile Developer 🇮🇩 | Passionate about building clean, functional, and beautiful web & mobile apps.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafizarya326&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hafizarya326 profile views" />
