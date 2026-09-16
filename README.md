@@ -54,12 +54,10 @@ fun_fact: "Always shipping something, even if it's small ✨"
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hafizarya326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="hafizarya326 github stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizarya326&layout=compact&theme=tokyonight&hide_border=true" alt="hafizarya326 top languages"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=hafizarya326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="hafizarya326 github stats"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafizarya326&layout=compact&theme=tokyonight&hide_border=true" alt="hafizarya326 top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizarya326&theme=tokyonight&hide_border=true" alt="hafizarya326 streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizarya326&theme=tokyo-night&hide_border=true" alt="hafizarya326 activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=hafizarya326&theme=tokyonight&hide_border=true" alt="hafizarya326 streak stats"/>
 
 </div>
 
