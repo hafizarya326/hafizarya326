@@ -17,7 +17,7 @@
 name: Hafiz Arya
 location: Indonesia
 role: Frontend Developer & Mobile Developer
-currently_learning: Laravel
+currently_learning: cpp
 ask_me_about: [React, Flutter, Dart]
 contact: hafizpratama326@gmail.com
 fun_fact: "Always shipping something, even if it's small ✨"
