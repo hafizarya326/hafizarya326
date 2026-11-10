@@ -117,7 +117,7 @@ I'm passionate about the full path from an idea to something people can actually
         <img src="https://img.shields.io/badge/Topic-Algorithms-0D1117?style=flat-square&labelColor=161B22&color=3B82F6" alt="Algorithms" />
       </p>
       <p>
-        <a href="https://github.com/hafizarya326/CashierApp_Simple">Repository</a>
+        <a href="https://github.com/hafizarya326/Linkora-App">Repository</a>
       </p>
     </td>
   </tr>
